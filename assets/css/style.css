@@ -216,6 +216,12 @@
     .foot{
         margin-top: 50px;
     }
+
+    .footend{
+        background-color: black;
+        color: goldenrod;
+        text-align: center;
+    }
  }
 
  
