@@ -83,7 +83,7 @@
  button:hover{
     background-color:goldenrod;
     border: black;
-    transform: scaley(1.5);
+    transform: scaley(1);
  }
 
  p{
@@ -178,7 +178,7 @@
          } 
          
          button{
-            background-color: orangered;
+            background-color: goldenrod;
             padding: 8px 15px;
             margin: 0px 10px;
             border: 2px solid white;
