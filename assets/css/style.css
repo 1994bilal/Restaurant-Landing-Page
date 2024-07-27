@@ -81,7 +81,7 @@
  }
 
  button:hover{
-    background-color:goldenrod;
+    background-color:green;
     border: black;
     transform: scaley(1.5);
  }
@@ -178,7 +178,7 @@
          } 
          
          button{
-            background-color: gray;
+            background-color: orangered;
             padding: 8px 15px;
             margin: 0px 10px;
             border: 2px solid white;
