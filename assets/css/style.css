@@ -156,7 +156,7 @@
         
         .child1{
             height: 70vh;
-            width: 50%;
+            width: 100%;
             background-color: black;
             color: goldenrod;
             font-weight:800;
@@ -168,7 +168,7 @@
         
         .child2{
             height: 70vh;
-            width: 50%;
+            width: 100%;
             background-color: green;
             }
         
